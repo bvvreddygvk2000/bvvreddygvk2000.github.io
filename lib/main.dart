@@ -199,7 +199,7 @@ class HomePage extends StatelessWidget {
                         height: 25,
 
                         decoration: BoxDecoration(
-                          color: const Color(0xFF16A34A),
+                           color: const Color.fromARGB(255, 252, 255, 253),
                           shape: BoxShape.circle,
 
                           border: Border.all(
